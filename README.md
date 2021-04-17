@@ -27,7 +27,8 @@ La pagina web esta hecha en laravel, al momento de descargarla debemos realizar 
 
 <img width="1397" alt="Screen Shot 2021-04-17 at 12 37 29" src="https://user-images.githubusercontent.com/80476901/115121767-098d1700-9f7a-11eb-8f53-910ceb7142eb.png">
 
-6. empezar a usar este programa.
+5. debemos configurar en el .env nuetra base de datos y nuestro correo electronico para que al final nuestra instalacion y pagina web funciones.
+6. empezar a utilizar nuetro programa.
 
 En caso de errores es bueno comentarlos con el fin de ir mejorando.
 
